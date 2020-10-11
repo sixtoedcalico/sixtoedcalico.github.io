@@ -1,0 +1,24 @@
+<html>
+
+<head>
+
+<body>
+
+<div style="text-align:center;padding:10px;">
+
+<h1>Amazing Web Page</h1>
+
+<script>
+
+alert('But wait, there\'s more...');
+
+</script>
+
+<p><a href="JavaScript:self.close();">Close This Silly Page!</a></p>
+
+</div>
+
+</body>
+
+</html>
+
